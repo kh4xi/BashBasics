@@ -54,7 +54,7 @@ pcount ()
     done
 }
 
-##downloading discord package and renaming to a specific name
+## package and renaming to a specific name
 sudo wget --progress=bar:force https://nmap.org/dist/zenmap-7.91-1.noarch.rpm -O zenmap_installer.rpm 2>&1 | pcount
 sudo wget --progress=bar:force http://archive.ubuntu.com/ubuntu/pool/universe/p/pygtk/python-gtk2_2.24.0-5.1ubuntu2_amd64.deb -O python-gtk2.deb 2>&1 | pcount
 sudo wget --progress=bar:force http://azure.archive.ubuntu.com/ubuntu/pool/universe/p/pygobject-2/python-gobject-2_2.28.6-14ubuntu1_amd64.deb -O python-gobject.deb 2>&1 | pcount
