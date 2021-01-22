@@ -25,6 +25,7 @@ echo """
      Solution for No module named gtk
 
                                         """
+echo "Please Uninstall the zenmap for clean install"
 sudo apt remove zenmap
 cd ~/Downloads
 mkdir zenfixinstall
