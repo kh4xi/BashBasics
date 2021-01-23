@@ -67,6 +67,7 @@ echo "Installing Requirements"
 sudo dpkg -i python-gtk2.deb
 sudo dpkg -i python-gobject.deb
 sudo dpkg -i python-cairo.deb
+sudo apt-get install -f
 
 ##alien is required package check if not exist then install
 
@@ -86,6 +87,7 @@ echo "Installing Deb file"
 
 #if the installation link changes // I'll update
 sudo dpkg -i zenmap_7.91-2_all.deb
+sudo apt-get install -f
 
 cd ../
 
