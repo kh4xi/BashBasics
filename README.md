@@ -15,3 +15,8 @@ Educational bash scripts and some other solutions for linux
 > #/usr/local/lib/python2.7/dist-packages
 > #/usr/lib/python2.7/dist-packages
 
+[Opera installer with chromium codecs](https://github.com/kh4xi/MyInstallers/blob/main/opera_installer.sh) Linux / Debian | Deb
+> #Installing ffmpeg codecs and opera
+> #Fixing ffmpeg codecs for opera
+> #Fixing video playback errors
+> #Fixing chromium
