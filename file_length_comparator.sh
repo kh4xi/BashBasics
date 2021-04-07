@@ -1,5 +1,5 @@
 #!/bin/bash
-#task4 file_length_comparator
+
 
 clear && printf '\e[3J'
 
