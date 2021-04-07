@@ -11,20 +11,6 @@
 #/usr/lib/python2.7/dist-packages
 
 
-echo """ 
-
-
- ______          ______ _               
-|___  /         |  ____(_)              
-   / / ___ _ __ | |__   ___  _____ _ __ 
-  / / / _ \ '_ \|  __| | \ \/ / _ \ '__|
- / /_|  __/ | | | |    | |>  <  __/ |   
-/_____\___|_| |_|_|    |_/_/\_\___|_|   
-                                        
-         twitter.com/kh4xi 
-     Solution for No module named gtk
-
-                                        """
 echo "Please Uninstall the zenmap for clean install"
 sudo apt remove zenmap
 cd ~/Downloads
