@@ -1,5 +1,5 @@
 #!/bin/bash
-#task5 network monitor 
+
 
 clear && printf '\e[3J'
 
