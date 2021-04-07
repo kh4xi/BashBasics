@@ -1,5 +1,5 @@
 #!/bin/bash
-#task3 number_converter
+
 
 clear && printf '\e[3J'
 
