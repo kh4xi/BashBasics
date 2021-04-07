@@ -1,5 +1,5 @@
 #!/bin/bash
-#task2 calculator
+
 
 clear && printf '\e[3J'
 
