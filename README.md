@@ -4,7 +4,7 @@ Educational bash scripts and some other solutions for linux
 ## List
 [discord installer](https://github.com/kh4xi/MyInstallers/blob/main/discord_installer.sh) Linux | Deb
 
-[zenmap installer](https://github.com/kh4xi/MyInstallers/blob/main/zenmap_installer.sh) Linux | Deb | RPM FIXED CLEAN INSTALL
+[zenmap installer](https://github.com/kh4xi/MyInstallers/blob/main/zenmap_installer.sh) Linux | Deb | RPM F
 > #Solution for No module named gtk
 > #/usr/local/bin
 > #/usr/lib/python2.7
