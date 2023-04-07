@@ -1,10 +1,8 @@
-# MyInstallers
-Educational bash scripts and some other solutions for linux
+# Personal Repo for linux
+some basics to remember and some collection of personal scripts to automate the stuff
 
 ## List
-[discord installer](https://github.com/kh4xi/MyInstallers/blob/main/discord_installer.sh) Linux | Deb
-
-[zenmap installer](https://github.com/kh4xi/MyInstallers/blob/main/zenmap_installer.sh) Linux | Deb | RPM 
+[zenmap installer](https://github.com/kh4xi/priv-setup-bash/blob/main/Installer/zenmap_installer.sh) Linux | Deb | RPM 
 > #Solution for No module named gtk
 > #/usr/local/bin
 > #/usr/lib/python2.7
@@ -14,9 +12,3 @@ Educational bash scripts and some other solutions for linux
 > #/usr/lib/python2.7/lib-dynload
 > #/usr/local/lib/python2.7/dist-packages
 > #/usr/lib/python2.7/dist-packages
-
-[Opera installer with chromium codecs](https://github.com/kh4xi/MyInstallers/blob/main/opera_installer.sh) Linux / Debian | Deb
-> #Installing ffmpeg codecs and opera
-> #Fixing ffmpeg codecs for opera
-> #Fixing video playback errors
-> #Fixing chromium
